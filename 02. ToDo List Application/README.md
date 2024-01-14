@@ -21,6 +21,9 @@ Develop a command-line or simple GUI-based Todo List application. Users should b
 
 ## Screenshots
 
+<p align="center">
+  <img src="https://github.com/cu-sanjay/Projects/assets/96792511/e5ac8bd5-8a6d-4d88-9af5-54551a6d0b40" width="300">
+</p>
 
 ## Code Structure
 
