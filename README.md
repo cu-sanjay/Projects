@@ -10,9 +10,7 @@ Build a basic calculator application that can perform addition, subtraction, mul
 
 ### Tech Stack
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-
-### Screenshots
+![Java](https://skillicons.dev/icons?i=java,vscode&theme=light)
 
 
 ## 2. Todo List Application
@@ -23,10 +21,7 @@ Develop a command-line or simple GUI-based Todo List application. Users should b
 
 ### Tech Stack
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-
-### Screenshots
-
+![Java](https://skillicons.dev/icons?i=java,vscode&theme=light)
 
 ## 3. Bank Management System
 
@@ -36,10 +31,7 @@ Create a console-based application for a bank management system. Implement featu
 
 ### Tech Stack
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-
-### Sample Usage
-
+![Java](https://skillicons.dev/icons?i=java,vscode&theme=light)
 
 ## License
 
