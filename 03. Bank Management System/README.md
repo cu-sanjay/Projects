@@ -11,12 +11,37 @@ The Banking System is a Java Swing application that simulates basic banking oper
 - User-friendly GUI with Java Swing
 
 ## Screenshots
-![Screenshot 1](screenshot/1.png)
-![Screenshot 2](screenshot/2.png)
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github.com/cu-sanjay/Projects/assets/96792511/c0b263c5-c857-484a-b4ee-bb9191458aa0" width="400">
+    </td>
+    <td>
+      <img src="https://github.com/cu-sanjay/Projects/assets/96792511/257929df-b59a-498c-a65e-0c0f458c957b" width="400">
+    </td>
+    <td>
+      <img src="https://github.com/cu-sanjay/Projects/assets/96792511/09b12f42-a807-4b18-bc25-8606134bbc3f" width="400">
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github.com/cu-sanjay/Projects/assets/96792511/09b12f42-a807-4b18-bc25-8606134bbc3f" width="400">
+    </td>
+    <td>
+      <img src="https://github.com/cu-sanjay/Projects/assets/96792511/fea3c2db-13ed-40e5-abdd-559927f49682" width="400">
+    </td>
+    <td>
+      <img src="https://github.com/cu-sanjay/Projects/assets/96792511/a63142e4-2c13-4b61-aa4a-956d49b3804e" width="400">
+    </td>
+  </tr>
+</table>
 
 ## Technologies Used
-- Java
-- Java Swing for GUI
+![Java](https://skillicons.dev/icons?i=java,vscode&theme=light)
 
 ## Installation
 1. Clone the repository:
@@ -27,7 +52,8 @@ The Banking System is a Java Swing application that simulates basic banking oper
    cd Projects
    ```
 2. Run Project
-   - To install, refer to the individual README files for each project.
+   - Compile the `main.java` file and run the project.
+
 ## Usage
 1. Launch the application.
 2. Follow the on-screen instructions to perform banking operations.
