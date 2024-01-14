@@ -54,9 +54,9 @@ java Calculator
 - Basic arithmetic and advanced operations are implemented using Java's Math library.
 
 ## Screenshots
-
-<img src="screenshot.png" alt="Screenshot" style="display: block; margin: auto; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-
+<p align="center">
+  <img src="https://github.com/cu-sanjay/Projects/assets/96792511/bc6d8ef9-a7e0-4356-915f-c2e6ad499ed0" width="300">
+</p>
 
 ## Contact
 
