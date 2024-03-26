@@ -37,12 +37,12 @@ public class Exp4 {
 
         Collections.sort(allCards, Comparator.comparing(card -> card.s));
 
-        System.out.println("entered cards ");
+        System.out.println("Entered Cards : ");
         for (Card card : allCards) {
             System.out.println(card.s + " " + card.n);
         }
 
-        System.out.println("\nsum = ");
+        System.out.println("\nSum : ");
         for (Map.Entry<String, List<Card>> entry : cardMap.entrySet()) {
             List<Card> cards = entry.getValue();
 
